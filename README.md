@@ -3,7 +3,9 @@
 
 
 
-- 🔭 I’m currently working on a cloud-based note-taking service ["notesmall"](https://notesmall.site)
+- 🚀 I'm a back-end engineer with a knack for building language model features, designing scalable architectures, and deploying systems using AWS and GCP.
+- 💡 I've led a bunch of AI and data-driven projects, like LLM-powered quiz generation, automated data pipelines, and high-performance systems, all while boosting speed and efficiency and tackling tricky data challenges.
+- 🌐 I previously worked on a cloud-based note-taking service **Notesmall** .
 - 🙌 Contributed to 3+ diverse projects in fullstack web development, IoT system.
 
 #### Contact
